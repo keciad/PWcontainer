@@ -6,7 +6,7 @@ LABEL documentation=https://github.com/ProteoWizard/container/dotnet
 LABEL license=https://github.com/ProteoWizard/container/dotnet
 LABEL tags="Wine,.NET"
 
-ENV CONTAINER_GITHUB=https://github.com/ProteoWizard/container/dotnet
+ENV CONTAINER_GITHUB=https://github.com/keciad/PWcontainer/dotnet
 
 # Prevents annoying debconf errors during builds
 ARG DEBIAN_FRONTEND="noninteractive"
